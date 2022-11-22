@@ -12,9 +12,9 @@
 
 Schéma : 
 - Séparer le signal en 4 s 
-1)
-- appliquer différents filtres => obtenir waves : supersolw (0,1,5) theta, gamma (12:30) superfast (<30)
+1. Filtre 
+- appliquer différents filtres => obtenir waves : supersolw (0:1,5) theta(5:12), gamma (12:30) superfast (>30)
 - Déterminer lequel est domminant 
 
-2) sans appliquer les filtres
+2. sans appliquer les filtres
 - appliquer heatmap sur les données spéarer (4s) => obtenir les fréquences dominantes
