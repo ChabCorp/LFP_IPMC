@@ -1,0 +1,58 @@
+abcb     sample
+a
+bce 
+abcb
+a
+babcbcd #Choice correct
+
+abcd #Sampling D 2
+cb #Retour
+abce #Choice correct
+
+abce #Sampling E 3
+cb #Retour
+abcd #Choice correct
+
+abcbabce # Sampling E 4
+abcdcb #Choice correct
+ #Retour
+
+abce #Sampling E 5
+abcbabce # Choice incorrect
+
+ababce #Sampling E 6
+b #Retour
+abcbabcbcbcbcd #Choice correct
+
+ #Sampling D 7
+cb #Retour
+abce #Choice correct
+
+bf #OF 
+
+abcbabcd #Choice D
+abce #Correct choice
+cbf #Retour avec erreur
+abcd #Choice D
+abcbabcbcd #Choice incorrect
+abce 
+cb
+abce
+abcd
+cb
+abce
+abce
+cb
+abcbcbce
+abce
+cbcb
+abce
+abcd
+cb
+abcbcbcd
+abce
+cb
+abce
+abcd
+cb
+abcbcd
